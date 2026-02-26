@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+# ぱな / gucchi-program
+
+休学して起業準備中。
+自社システム開発の傍、技術支援・LPの作成など幅広く受注しています。
+
+## Focus
+- いま作っているもの：Linoa(現場の勘や経験をデータ化し、専属AIを作っていくアプリ）
+- 興味： B to B SaaS / 業務効率化 / LLM活用
+- Tech：TypeScript / Next.js / React / Node.js / Python
+
+## Links
+- X：@panaentre
+- Note：https://note.com/pana_startup
+
 <!--
 **gucchi-program/gucchi-program** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
