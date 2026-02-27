@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
 # ぱな / gucchi-program
 
 休学して起業準備中。
 自社システム開発の傍、技術支援・LPの作成など幅広く受注しています。
+生成AIを使って、いろいろアイデアを形にしてみることにハマっています。
 
 ## Focus
 - いま作っているもの：Linoa(現場の勘や経験をデータ化し、専属AIを作っていくアプリ）
+  　　　　　　　     生成AIを用いた自動化ツール
 - 興味： B to B SaaS / 業務効率化 / LLM活用
 - Tech：TypeScript / Next.js / React / Node.js / Python
 
