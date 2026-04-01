@@ -7,14 +7,16 @@
 生成AIを使って、いろいろアイデアを形にしてみることにハマっています。
 
 ## Focus
-- いま作っているもの：Linoa(現場の勘や経験をデータ化し、専属AIを作っていくアプリ）
-  　　　　　　　     生成AIを用いた自動化ツール
+- いま作っているもの：Linoa(現場の勘や経験をデータ化し、専属AIを作っていくアプリ）,生成AIを用いた自動化ツール
 - 興味： B to B SaaS / 業務効率化 / LLM活用
-- Tech：TypeScript / Next.js / React / Node.js / Python
+- Tech：TypeScript / Next.js / React / Node.js / Python / PHP
 
 ## Links
 - X：@panaentre
 - Note：https://note.com/pana_startup
+
+## Products
+- https://kbsc-edu.com (PHP,wordpress)
 
 <!--
 **gucchi-program/gucchi-program** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
