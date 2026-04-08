@@ -1,10 +1,9 @@
 ## Hello there 👋
 
-# ぱな / 原口翔伍
+# pana / 原口翔伍(Shogo HARAGUCHI)
 
 休学して起業準備中。
 自社システム開発の傍、技術支援・LPの作成など幅広く受注しています。
-生成AIを使って、いろいろアイデアを形にしてみることにハマっています。
 
 ## Focus
 - いま作っているもの：Linoa(現場の勘や経験をデータ化し、専属AIを作っていくアプリ）,生成AIを用いた自動化ツール
@@ -14,9 +13,11 @@
 ## Links
 - X：@panaentre
 - Note：https://note.com/pana_startup
+- contact : s.haraguchi@li-noa.jp
 
 ## Products
-- https://kbsc-edu.com (PHP,wordpress)
+- https://li-noa.jp (check my business! I'm CEO and CTO this business.)
+- https://kbsc-edu.com (HP one of business contests in Kansai. I dealt its design and coding.)
 
 <!--
 **gucchi-program/gucchi-program** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
