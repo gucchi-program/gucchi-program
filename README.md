@@ -16,7 +16,7 @@
 - contact : s.haraguchi@li-noa.jp
 
 ## Products
-- https://li-noa.jp (check my business! I'm CEO and CTO this business.)
+- https://li-noa.jp (check out my business! I'm CEO and CTO this business.)
 - https://kbsc-edu.com (HP one of business contests in Kansai. I dealt its design and coding.)
 
 <!--
