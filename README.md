@@ -8,7 +8,6 @@
 ## Focus
 - いま作っているもの：Linoa(現場の勘や経験をデータ化し、専属AIを作っていくアプリ）,生成AIを用いた自動化ツール
 - 興味： B to B SaaS / 業務効率化 / LLM活用
-- Tech：TypeScript / Next.js / React / Node.js / Python / PHP
 
 ## Links
 - X：@panaentre
