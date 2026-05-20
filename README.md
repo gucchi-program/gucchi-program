@@ -3,7 +3,6 @@
 # pana / 原口翔伍(Shogo HARAGUCHI)
 
 休学して起業準備中。
-自社システム開発の傍、技術支援・LPの作成など幅広く受注しています。
 
 ## Focus
 - いま作っているもの：Linoa(現場の勘や経験をデータ化し、専属AIを作っていくアプリ）,生成AIを用いた自動化ツール
@@ -15,7 +14,7 @@
 - contact : s.haraguchi@li-noa.jp
 
 ## Products
-- https://li-noa.jp (check out my business! I'm CEO and CTO this business.)
+- https://li-noa.jp (check out my business!)
 - https://kbsc-edu.com (HP one of business contests in Kansai. I dealt its design and coding.)
 
 <!--
