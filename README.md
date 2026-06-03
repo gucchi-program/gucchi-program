@@ -5,12 +5,10 @@
 休学して起業準備中。
 
 ## Focus
-- いま作っているもの：Linoa(現場の勘や経験をデータ化し、専属AIを作っていくアプリ）,生成AIを用いた自動化ツール
+- いま作っているもの：Linoa(ITのハードルを限界まで下げ、これまでITの恩恵を受けられなかった人（特に対面接客業全般に従事する人）の業務を効率化するSaaSプロジェクト）
 - 興味： B to B SaaS / 業務効率化 / LLM活用
 
 ## Links
-- X：@panaentre
-- Note：https://note.com/pana_startup
 - contact : s.haraguchi@li-noa.jp
 
 ## Products
