@@ -10,6 +10,7 @@
 
 ## Links
 - contact : s.haraguchi@li-noa.jp
+- note : https://note.com/pana_startup
 
 ## Products
 - https://li-noa.jp (check out my business!)
