@@ -10,11 +10,9 @@
 
 ## Links
 - contact : s.haraguchi@li-noa.jp
-- note : https://note.com/pana_startup
 
 ## Products
 - https://li-noa.jp (check out my business!)
-- https://kbsc-edu.com (HP one of business contests in Kansai. I dealt its design and coding.)
 
 <!--
 **gucchi-program/gucchi-program** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
