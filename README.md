@@ -1,8 +1,6 @@
 ## Hello there 👋
 
-# pana / 原口翔伍(Shogo HARAGUCHI)
-
-休学して起業準備中。
+# 原口翔伍(Shogo HARAGUCHI)
 
 ## Focus
 - いま作っているもの：Linoa(ITのハードルを限界まで下げ、これまでITの恩恵を受けられなかった人（特に対面接客業全般に従事する人）の業務を効率化するSaaSプロジェクト）
